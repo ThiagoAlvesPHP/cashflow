@@ -57,3 +57,4 @@
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/YamlDotNet.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/obj/Debug/net9.0/CashFlow.Api.sourcelink.json

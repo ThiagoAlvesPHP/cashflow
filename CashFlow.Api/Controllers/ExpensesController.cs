@@ -1,3 +1,4 @@
+using CashFlow.Communication.Requests;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CashFlow.Api.Controllers;
@@ -9,7 +10,7 @@ public class ExpensesController : Controller
 {
     
     [HttpPost]
-    public IActionResult Register()
+    public IActionResult Register([FromBody] RequestRegisterExpenseJson request)
     {
         return Created();
     }
