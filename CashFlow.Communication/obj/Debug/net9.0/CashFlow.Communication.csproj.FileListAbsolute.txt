@@ -1,0 +1,11 @@
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/bin/Debug/net9.0/CashFlow.Communication.deps.json
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/bin/Debug/net9.0/CashFlow.Communication.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/bin/Debug/net9.0/CashFlow.Communication.pdb
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/obj/Debug/net9.0/CashFlow.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/obj/Debug/net9.0/CashFlow.Communication.AssemblyInfoInputs.cache
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/obj/Debug/net9.0/CashFlow.Communication.AssemblyInfo.cs
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/obj/Debug/net9.0/CashFlow.Communication.csproj.CoreCompileInputs.cache
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/obj/Debug/net9.0/CashFlow.Communication.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/obj/Debug/net9.0/refint/CashFlow.Communication.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/obj/Debug/net9.0/CashFlow.Communication.pdb
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/obj/Debug/net9.0/ref/CashFlow.Communication.dll

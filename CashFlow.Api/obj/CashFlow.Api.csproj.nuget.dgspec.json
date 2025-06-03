@@ -1,0 +1,406 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/CashFlow.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/CashFlow.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/CashFlow.Api.csproj",
+        "projectName": "CashFlow.Api",
+        "projectPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/CashFlow.Api.csproj",
+        "packagesPath": "/Users/thiagodossantosallves/.nuget/packages/",
+        "outputPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thiagodossantosallves/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Application/CashFlow.Application.csproj": {
+                "projectPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Application/CashFlow.Application.csproj"
+              },
+              "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/CashFlow.Communication.csproj": {
+                "projectPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/CashFlow.Communication.csproj"
+              },
+              "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/CashFlow.Exception.csproj": {
+                "projectPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/CashFlow.Exception.csproj"
+              },
+              "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj": {
+                "projectPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[14.4.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[8.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Application/CashFlow.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Application/CashFlow.Application.csproj",
+        "projectName": "CashFlow.Application",
+        "projectPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Application/CashFlow.Application.csproj",
+        "packagesPath": "/Users/thiagodossantosallves/.nuget/packages/",
+        "outputPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thiagodossantosallves/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/CashFlow.Communication.csproj": {
+                "projectPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/CashFlow.Communication.csproj"
+              },
+              "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Domain/CashFlow.Domain.csproj": {
+                "projectPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Domain/CashFlow.Domain.csproj"
+              },
+              "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/CashFlow.Exception.csproj": {
+                "projectPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/CashFlow.Exception.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/CashFlow.Communication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/CashFlow.Communication.csproj",
+        "projectName": "CashFlow.Communication",
+        "projectPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/CashFlow.Communication.csproj",
+        "packagesPath": "/Users/thiagodossantosallves/.nuget/packages/",
+        "outputPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Communication/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thiagodossantosallves/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Domain/CashFlow.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Domain/CashFlow.Domain.csproj",
+        "projectName": "CashFlow.Domain",
+        "projectPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Domain/CashFlow.Domain.csproj",
+        "packagesPath": "/Users/thiagodossantosallves/.nuget/packages/",
+        "outputPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thiagodossantosallves/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/CashFlow.Exception.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/CashFlow.Exception.csproj",
+        "projectName": "CashFlow.Exception",
+        "projectPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/CashFlow.Exception.csproj",
+        "packagesPath": "/Users/thiagodossantosallves/.nuget/packages/",
+        "outputPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thiagodossantosallves/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj",
+        "projectName": "CashFlow.Infrastructure",
+        "projectPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj",
+        "packagesPath": "/Users/thiagodossantosallves/.nuget/packages/",
+        "outputPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/thiagodossantosallves/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Domain/CashFlow.Domain.csproj": {
+                "projectPath": "/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Domain/CashFlow.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

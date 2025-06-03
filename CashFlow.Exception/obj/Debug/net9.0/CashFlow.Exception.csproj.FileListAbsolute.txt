@@ -1,0 +1,11 @@
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/bin/Debug/net9.0/CashFlow.Exception.deps.json
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/bin/Debug/net9.0/CashFlow.Exception.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/bin/Debug/net9.0/CashFlow.Exception.pdb
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.AssemblyInfoInputs.cache
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.AssemblyInfo.cs
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.csproj.CoreCompileInputs.cache
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/refint/CashFlow.Exception.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.pdb
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/ref/CashFlow.Exception.dll
