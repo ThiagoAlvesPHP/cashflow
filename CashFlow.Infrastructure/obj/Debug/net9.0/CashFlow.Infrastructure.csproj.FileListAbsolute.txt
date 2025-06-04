@@ -13,3 +13,4 @@
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Infrastructure/obj/Debug/net9.0/refint/CashFlow.Infrastructure.dll
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Infrastructure/obj/Debug/net9.0/CashFlow.Infrastructure.pdb
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Infrastructure/obj/Debug/net9.0/ref/CashFlow.Infrastructure.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Infrastructure/obj/Debug/net9.0/CashFlow.Infrastructure.sourcelink.json

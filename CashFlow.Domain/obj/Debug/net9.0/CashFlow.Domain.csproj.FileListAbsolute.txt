@@ -9,3 +9,4 @@
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Domain/obj/Debug/net9.0/refint/CashFlow.Domain.dll
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Domain/obj/Debug/net9.0/CashFlow.Domain.pdb
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Domain/obj/Debug/net9.0/ref/CashFlow.Domain.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Domain/obj/Debug/net9.0/CashFlow.Domain.sourcelink.json
