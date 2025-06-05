@@ -9,3 +9,4 @@
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/refint/CashFlow.Exception.dll
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.pdb
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/ref/CashFlow.Exception.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.sourcelink.json
