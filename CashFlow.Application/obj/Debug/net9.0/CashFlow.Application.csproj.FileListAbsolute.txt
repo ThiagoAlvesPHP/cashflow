@@ -18,3 +18,5 @@
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Application/obj/Debug/net9.0/CashFlow.Application.pdb
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Application/obj/Debug/net9.0/ref/CashFlow.Application.dll
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Application/obj/Debug/net9.0/CashFlow.Application.sourcelink.json
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Application/bin/Debug/net9.0/pt-PT/CashFlow.Exception.resources.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Application/bin/Debug/net9.0/pt-BR/CashFlow.Exception.resources.dll

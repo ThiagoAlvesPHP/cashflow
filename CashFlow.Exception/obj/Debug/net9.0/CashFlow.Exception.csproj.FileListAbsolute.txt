@@ -10,3 +10,13 @@
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.pdb
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/ref/CashFlow.Exception.dll
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.sourcelink.json
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/bin/Debug/net9.0/pt-BR/CashFlow.Exception.resources.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/bin/Debug/net9.0/pt-PT/CashFlow.Exception.resources.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.ResourcesErrorMessages.resources
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.ResourcesErrorMessages.pt-BR.resources
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.ResourcesErrorMessages.pt-PT.resources
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.csproj.GenerateResource.cache
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/pt-BR/CashFlow.Exception.resources.cs
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/pt-BR/CashFlow.Exception.resources.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/pt-PT/CashFlow.Exception.resources.cs
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Exception/obj/Debug/net9.0/pt-PT/CashFlow.Exception.resources.dll

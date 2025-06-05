@@ -59,3 +59,5 @@
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/YamlDotNet.dll
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/obj/Debug/net9.0/CashFlow.Api.sourcelink.json
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/FluentValidation.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/pt-PT/CashFlow.Exception.resources.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/pt-BR/CashFlow.Exception.resources.dll
