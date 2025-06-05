@@ -19,24 +19,16 @@ public class ExpensesController : Controller
         {
             var useCase = new RegisterExpenseUseCase();
             var response = useCase.Execute(request);
-            
             return Created(string.Empty, response);
         }
         catch (ErrorOnValidationException ex)
         {
             var errorMessage = new ResponseErrorJson(ex.Errors);
-            // errorMessage.ErrorMessage = ex.Message;
-            
             return BadRequest(errorMessage);
         }
         catch
         {
             var errorMessage = new ResponseErrorJson("Internal server error");
-            // var errorMessage = new ResponseErrorJson
-            // {
-            //     ErrorMessage = "Internal server error"
-            // };
-            
             return StatusCode(StatusCodes.Status500InternalServerError, errorMessage);
         }
     }
