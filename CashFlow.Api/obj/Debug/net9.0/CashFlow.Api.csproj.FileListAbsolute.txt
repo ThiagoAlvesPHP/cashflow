@@ -61,3 +61,16 @@
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/FluentValidation.dll
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/pt-PT/CashFlow.Exception.resources.dll
 /Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/pt-BR/CashFlow.Exception.resources.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/MySqlConnector.dll
+/Users/thiagodossantosallves/Desktop/C#/CashFlow/CashFlow.Api/bin/Debug/net9.0/Pomelo.EntityFrameworkCore.MySql.dll
