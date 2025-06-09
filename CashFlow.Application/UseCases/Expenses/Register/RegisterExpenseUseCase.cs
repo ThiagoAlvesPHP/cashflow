@@ -11,6 +11,17 @@ public class RegisterExpenseUseCase
     {
         // TO DO VALIDATIONS
         Validate(request);
+        
+
+        // // TO DO: Check if the expense already exists
+        var expense = new Domain.Entities.Expense
+        {
+            Title = request.Title,
+            Description = request.Description,
+            Amount = request.Amount,
+            Date = request.Date,
+            PaymentType = (CashFlow.Domain.Enums.PaymentType)request.PaymentType
+        };
             
         return new ResponseRegisterExpenseJson();
     }
