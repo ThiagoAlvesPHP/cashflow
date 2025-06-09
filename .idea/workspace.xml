@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa9ee238-fd57-4a9f-836a-6801a26bbe17" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Exception.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Exception.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Exception.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Exception.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/CashFlow.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/pt-BR/CashFlow.Exception.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/pt-BR/CashFlow.Exception.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/pt-PT/CashFlow.Exception.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/bin/Debug/net9.0/pt-PT/CashFlow.Exception.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/obj/Debug/net9.0/CashFlow.Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/obj/Debug/net9.0/CashFlow.Api.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/obj/Debug/net9.0/CashFlow.Api.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/obj/Debug/net9.0/CashFlow.Api.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/obj/Debug/net9.0/CashFlow.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/obj/Debug/net9.0/CashFlow.Api.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/obj/Debug/net9.0/CashFlow.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/obj/Debug/net9.0/CashFlow.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/obj/Debug/net9.0/CashFlow.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/obj/Debug/net9.0/CashFlow.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/obj/Debug/net9.0/CashFlow.Api.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/obj/Debug/net9.0/CashFlow.Api.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/obj/Debug/net9.0/ref/CashFlow.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/obj/Debug/net9.0/ref/CashFlow.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/obj/Debug/net9.0/refint/CashFlow.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/obj/Debug/net9.0/refint/CashFlow.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Api/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/bin/Debug/net9.0/CashFlow.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/bin/Debug/net9.0/CashFlow.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/bin/Debug/net9.0/CashFlow.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/bin/Debug/net9.0/CashFlow.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/bin/Debug/net9.0/CashFlow.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/bin/Debug/net9.0/CashFlow.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/bin/Debug/net9.0/CashFlow.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/bin/Debug/net9.0/CashFlow.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/bin/Debug/net9.0/CashFlow.Exception.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/bin/Debug/net9.0/CashFlow.Exception.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/bin/Debug/net9.0/CashFlow.Exception.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/bin/Debug/net9.0/CashFlow.Exception.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/bin/Debug/net9.0/pt-BR/CashFlow.Exception.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/bin/Debug/net9.0/pt-BR/CashFlow.Exception.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/bin/Debug/net9.0/pt-PT/CashFlow.Exception.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/bin/Debug/net9.0/pt-PT/CashFlow.Exception.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/obj/Debug/net9.0/CashFlow.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/obj/Debug/net9.0/CashFlow.Application.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/obj/Debug/net9.0/CashFlow.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/obj/Debug/net9.0/CashFlow.Application.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/obj/Debug/net9.0/CashFlow.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/obj/Debug/net9.0/CashFlow.Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/obj/Debug/net9.0/CashFlow.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/obj/Debug/net9.0/CashFlow.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/obj/Debug/net9.0/CashFlow.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/obj/Debug/net9.0/CashFlow.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/obj/Debug/net9.0/CashFlow.Application.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/obj/Debug/net9.0/CashFlow.Application.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/obj/Debug/net9.0/ref/CashFlow.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/obj/Debug/net9.0/ref/CashFlow.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/obj/Debug/net9.0/refint/CashFlow.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/obj/Debug/net9.0/refint/CashFlow.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Communication/obj/Debug/net9.0/CashFlow.Communication.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Communication/obj/Debug/net9.0/CashFlow.Communication.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Communication/obj/Debug/net9.0/CashFlow.Communication.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Communication/obj/Debug/net9.0/CashFlow.Communication.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Communication/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Communication/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Domain/bin/Debug/net9.0/CashFlow.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Domain/bin/Debug/net9.0/CashFlow.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Domain/bin/Debug/net9.0/CashFlow.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Domain/bin/Debug/net9.0/CashFlow.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Domain/obj/Debug/net9.0/CashFlow.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Domain/obj/Debug/net9.0/CashFlow.Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Domain/obj/Debug/net9.0/CashFlow.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Domain/obj/Debug/net9.0/CashFlow.Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Domain/obj/Debug/net9.0/CashFlow.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Domain/obj/Debug/net9.0/CashFlow.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Domain/obj/Debug/net9.0/CashFlow.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Domain/obj/Debug/net9.0/CashFlow.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Domain/obj/Debug/net9.0/CashFlow.Domain.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Domain/obj/Debug/net9.0/CashFlow.Domain.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Domain/obj/Debug/net9.0/ref/CashFlow.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Domain/obj/Debug/net9.0/ref/CashFlow.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Domain/obj/Debug/net9.0/refint/CashFlow.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Domain/obj/Debug/net9.0/refint/CashFlow.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Exception/bin/Debug/net9.0/CashFlow.Exception.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Exception/bin/Debug/net9.0/CashFlow.Exception.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Exception/bin/Debug/net9.0/CashFlow.Exception.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Exception/bin/Debug/net9.0/CashFlow.Exception.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Exception/bin/Debug/net9.0/pt-BR/CashFlow.Exception.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Exception/bin/Debug/net9.0/pt-BR/CashFlow.Exception.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Exception/bin/Debug/net9.0/pt-PT/CashFlow.Exception.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Exception/bin/Debug/net9.0/pt-PT/CashFlow.Exception.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/CashFlow.Exception.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/pt-BR/CashFlow.Exception.resources.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/pt-BR/CashFlow.Exception.resources.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/pt-BR/CashFlow.Exception.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/pt-BR/CashFlow.Exception.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/pt-PT/CashFlow.Exception.resources.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/pt-PT/CashFlow.Exception.resources.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/pt-PT/CashFlow.Exception.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/pt-PT/CashFlow.Exception.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/ref/CashFlow.Exception.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/ref/CashFlow.Exception.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/refint/CashFlow.Exception.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Exception/obj/Debug/net9.0/refint/CashFlow.Exception.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Exception/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Exception/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Infrastructure/bin/Debug/net9.0/CashFlow.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Infrastructure/bin/Debug/net9.0/CashFlow.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Infrastructure/bin/Debug/net9.0/CashFlow.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Infrastructure/bin/Debug/net9.0/CashFlow.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Infrastructure/bin/Debug/net9.0/CashFlow.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Infrastructure/bin/Debug/net9.0/CashFlow.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Infrastructure/bin/Debug/net9.0/CashFlow.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Infrastructure/bin/Debug/net9.0/CashFlow.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/Debug/net9.0/CashFlow.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/Debug/net9.0/CashFlow.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/Debug/net9.0/CashFlow.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/Debug/net9.0/CashFlow.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/Debug/net9.0/CashFlow.Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/Debug/net9.0/CashFlow.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/Debug/net9.0/CashFlow.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/Debug/net9.0/CashFlow.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/Debug/net9.0/CashFlow.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/Debug/net9.0/CashFlow.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/Debug/net9.0/CashFlow.Infrastructure.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/Debug/net9.0/CashFlow.Infrastructure.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/Debug/net9.0/ref/CashFlow.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/Debug/net9.0/ref/CashFlow.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/Debug/net9.0/refint/CashFlow.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/Debug/net9.0/refint/CashFlow.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/CashFlow.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ThiagoAlvesPHP"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ThiagoAlvesPHP/cashflow.git",
+    "accountId": "8c0efc9c-6e15-40ee-96bd-5512f50f901d"
+  }
+}]]></component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP Herd" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2y93xVU0Rd5EwKcPfupXhMQT3Cy" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/thiagodossantosallves/Desktop/C#/CashFlow",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PS-251.25410.148" />
+        <option value="bundled-php-predefined-a98d8de5180a-c5828cf854d9-com.jetbrains.php.sharedIndexes-PS-251.25410.148" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa9ee238-fd57-4a9f-836a-6801a26bbe17" name="Changes" comment="" />
+      <created>1749233209162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749233209162</updated>
+      <workItem from="1749233211696" duration="839000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
